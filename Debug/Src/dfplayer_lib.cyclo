@@ -1,0 +1,7 @@
+../Src/dfplayer_lib.c:27:6:deplayer_send_cmd	1
+../Src/dfplayer_lib.c:39:6:dfplayer_init	1
+../Src/dfplayer_lib.c:49:6:dfplayer_play_first_track	1
+../Src/dfplayer_lib.c:58:6:dfplayer_play_next_track	1
+../Src/dfplayer_lib.c:66:6:dfplayer_play_prev_track	1
+../Src/dfplayer_lib.c:74:6:dfplayer_play_pause_track	1
+../Src/dfplayer_lib.c:81:6:dfplayer_play_back_track	1
